@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Game Programmer
+## Game/Web/application Programmer
 
 ---
 
