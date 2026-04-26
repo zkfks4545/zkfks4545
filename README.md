@@ -22,19 +22,19 @@
     <th>개발 기간</th>
   </tr>
   <tr>
-    <td>⭐ [Unity 2D] Bamsongi(FPS?) shooting Game</td>
+    <td>⭐ [Unity 3D] Bamsongi(FPS?) shooting Game</td>
     <td>2025.02.09 ~ 2023.11.20</td>
   </tr>
   <tr>
-    <td>⭐ [Unity 3D] RPG Game Portfolio</td>
+    <td>⭐ [Unity 3D] title</td>
     <td>2023.05.10 ~ 2023.08.18</td>
   </tr>
   <tr>
-    <td>[Unity 2D] TokkiPangPang Game</td>
+    <td>[Unity 3D] title</td>
     <td>2023.06.13 ~ 2023.06.15</td>
   </tr>
   <tr>
-    <td>[Unity 3D] Security Escape Game</td>
+    <td>[Unity 3D] title</td>
     <td>2022.03.02 ~ 2022.06.10</td>
   </tr>
 </table>
