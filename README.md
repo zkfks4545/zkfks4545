@@ -23,11 +23,11 @@
   </tr>
   <tr>
     <td>⭐ [Unity 3D] Bamsongi shooting Game</td>
-    <td>2025.02.09 ~ 2023.11.20</td>
+    <td>2025.02.09 ~ 2025.02.15</td>
   </tr>
   <tr>
     <td>[Unity 3D] Uni-run</td>
-    <td>2023.06.13 ~ 2023.06.15</td>
+    <td>2025.03.02 ~ 2025.03.14</td>
   </tr>
   <tr>
     <td>[Web/teamProject] minihompage (Omoidesk)</td>
