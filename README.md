@@ -14,7 +14,7 @@
 - Blog: []()
 - Email: [zkfks4545@gmail.com](mailto:zkfks4545@gmail.com)
 
-### 3. 💻 Toy Project
+### 3. 💻 Practice Toy Project
 
 <table>
   <tr>
@@ -36,6 +36,10 @@
   <tr>
     <td>[Unity 3D] title</td>
     <td>2022.03.02 ~ 2022.06.10</td>
+  </tr>
+  <tr>
+    <td>[Web/teamProject] minihompage (Omoidesk)</td>
+    <td>2026.04.06~2026.04.20</td>
   </tr>
 </table>
 
